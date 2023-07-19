@@ -1,4 +1,4 @@
-![image](https://github.com/Scotty1027/USSFC-Net/assets/46108309/407fd8aa-412d-46cc-bba9-82ab5e744255)# **USSFC-Net**
+# **USSFC-Net**
 
 ---
 
