@@ -1,4 +1,4 @@
-# **USSFC-Net**
+![image](https://github.com/Scotty1027/USSFC-Net/assets/46108309/407fd8aa-412d-46cc-bba9-82ab5e744255)# **USSFC-Net**
 
 ---
 
@@ -26,9 +26,10 @@ on *2023 IEEE Transactions on Geoscience and Remote Sensing*.
 
 ## **Experiments**
 
-![image-20230719114603971](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230719114603971.png)
+![image](https://github.com/Scotty1027/USSFC-Net/assets/46108309/6f8a895a-3ba2-46c5-96c9-ae1badeb9bdb)
+![image](https://github.com/Scotty1027/USSFC-Net/assets/46108309/9085a735-1528-46d3-b70f-ce0d37d8d1bb)
+![image](https://github.com/Scotty1027/USSFC-Net/assets/46108309/dbadb4bb-a087-475c-ba74-e381f3422a4b)
 
-![image-20230719114633070](C:\Users\DELL\AppData\Roaming\Typora\typora-user-images\image-20230719114633070.png)
 
 ## Citation
 
